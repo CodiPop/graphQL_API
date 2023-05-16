@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GuardiansOfTheGlobe_graphQLApi.props" />
+</Project>
