@@ -9,9 +9,137 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GuardiansOfTheGlobe_graphQLApi
 build_property.RootNamespace = GuardiansOfTheGlobe_graphQLApi
-build_property.ProjectDir = C:\Users\santi\source\repos\GuardiansOfTheGlobe_graphQLApi\GuardiansOfTheGlobe_graphQLApi\
+build_property.ProjectDir = C:\Users\santi\OneDrive\Documents\GitHub\graphQL_API\GuardiansOfTheGlobe_graphQLApi\GuardiansOfTheGlobe_graphQLApi\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\santi\source\repos\GuardiansOfTheGlobe_graphQLApi\GuardiansOfTheGlobe_graphQLApi
+build_property.MSBuildProjectDirectory = C:\Users\santi\OneDrive\Documents\GitHub\graphQL_API\GuardiansOfTheGlobe_graphQLApi\GuardiansOfTheGlobe_graphQLApi
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Agendas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Agendas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Agendas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Agendas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Agendas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Heroes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Heroes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Heroes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Heroes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Heroes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVyb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Patrocinadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Patrocinadores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Patrocinadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Patrocinadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Patrocinadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0cm9jaW5hZG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Peleas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsZWFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Peleas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsZWFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Peleas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsZWFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Peleas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsZWFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Peleas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsZWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Villanos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFub3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Villanos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFub3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Villanos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFub3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Villanos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFub3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Villanos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFub3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/santi/OneDrive/Documents/GitHub/graphQL_API/GuardiansOfTheGlobe_graphQLApi/GuardiansOfTheGlobe_graphQLApi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-27gsvbxm77
