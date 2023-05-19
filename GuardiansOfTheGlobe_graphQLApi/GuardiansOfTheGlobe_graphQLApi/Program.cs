@@ -6,7 +6,7 @@ using System;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<AppDbContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("AppConnection")));
-builder.Services.AddGraphQLServer().AddQueryType<Qheroe>();
+builder.Services.AddGraphQLServer().AddQueryType<Qheroe>().AddMutationType<Mutation>();
 var app = builder.Build();
 
 //builder.Services.AddControllers();
