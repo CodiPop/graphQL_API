@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\graphQL_API\\GuardiansOfTheGlobe_graphQLApi\\GuardiansOfTheGlobe_graphQLApi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GuardiansOfTheGlobe_graphQLApi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GuardiansOfTheGlobe_graphQLApi.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GuardiansOfTheGlobe_graphQLApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GuardiansOfTheGlobe_graphQLApi.props",
+      "PackagePath": "build\\GuardiansOfTheGlobe_graphQLApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GuardiansOfTheGlobe_graphQLApi.props",
+      "PackagePath": "buildMultiTargeting\\GuardiansOfTheGlobe_graphQLApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GuardiansOfTheGlobe_graphQLApi.props",
+      "PackagePath": "buildTransitive\\GuardiansOfTheGlobe_graphQLApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

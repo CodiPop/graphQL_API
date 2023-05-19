@@ -1,11 +1,46 @@
 {
   "Version": 1,
-  "Hash": "izXRNsLrsjdbKi8GlYIRacVTh5FvrRspMW9eCfYFIE0=",
+  "Hash": "GvuwDUN363IO62RNw1FNCs6r6ajViNZVB8LNccMGUVQ=",
   "Source": "GuardiansOfTheGlobe_graphQLApi",
   "BasePath": "_content/GuardiansOfTheGlobe_graphQLApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\graphQL_API\\GuardiansOfTheGlobe_graphQLApi\\GuardiansOfTheGlobe_graphQLApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\GuardiansOfTheGlobe_graphQLApi.styles.css",
+      "SourceId": "GuardiansOfTheGlobe_graphQLApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\graphQL_API\\GuardiansOfTheGlobe_graphQLApi\\GuardiansOfTheGlobe_graphQLApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/GuardiansOfTheGlobe_graphQLApi",
+      "RelativePath": "GuardiansOfTheGlobe_graphQLApi.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\graphQL_API\\GuardiansOfTheGlobe_graphQLApi\\GuardiansOfTheGlobe_graphQLApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\GuardiansOfTheGlobe_graphQLApi.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\graphQL_API\\GuardiansOfTheGlobe_graphQLApi\\GuardiansOfTheGlobe_graphQLApi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GuardiansOfTheGlobe_graphQLApi.bundle.scp.css",
+      "SourceId": "GuardiansOfTheGlobe_graphQLApi",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\graphQL_API\\GuardiansOfTheGlobe_graphQLApi\\GuardiansOfTheGlobe_graphQLApi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/GuardiansOfTheGlobe_graphQLApi",
+      "RelativePath": "GuardiansOfTheGlobe_graphQLApi.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\santi\\OneDrive\\Documents\\GitHub\\graphQL_API\\GuardiansOfTheGlobe_graphQLApi\\GuardiansOfTheGlobe_graphQLApi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GuardiansOfTheGlobe_graphQLApi.bundle.scp.css"
+    }
+  ]
 }
