@@ -4,9 +4,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace GuardiansOfTheGlobeApi.Models
 {
-    public class VillanoPeleasResult
+    public class Villanomas
     {
-        public string nombre_villano { get; set; }
-        public int cantidad_de_peleas { get; set; }
+        public string NombreVillano { get; set; }
+        public int CantidadDePeleas { get; set; }
     }
 }

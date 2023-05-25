@@ -14,6 +14,8 @@ namespace GuardiansOfTheGlobe_graphQLApi.Schema.Query
             return context.Heroes.ToList();
         }
         public string Test => "Testeo";
+
+
     }
 
 
