@@ -5,14 +5,15 @@ using Microsoft.EntityFrameworkCore;
 
 namespace GuardiansOfTheGlobe_graphQLApi.Schema.Query
 {
-    public class Qheroe
+    [ExtendObjectType("Query")]
+    public class Qagenda
     {
 
-        public List<Hero> Getheroes([Service] AppDbContext context)
+        public List<Agenda> Getagenda([Service] AppDbContext context)
         {
-            return context.Heroes.ToList();
+            return context.Agenda.ToList();
         }
-        public string Test => "Testeo";
+        
     }
 
 

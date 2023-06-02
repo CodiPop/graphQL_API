@@ -6,9 +6,10 @@ using Microsoft.Win32;
 
 namespace GuardiansOfTheGlobe_graphQLApi.Schema.Mutation
 {
-    public class Mutation
+    [ExtendObjectType("Mutation")]
+    public class Mheroe
     {
-
+        
 
         public async Task<Hero> SaveHeroAsync([Service] AppDbContext context,
     string Nombre, int edad,  string habilidades, string debilidades, string relacionespersonales)
@@ -57,6 +58,8 @@ namespace GuardiansOfTheGlobe_graphQLApi.Schema.Mutation
 
             return null;
         }
+
+
 
 
     }
