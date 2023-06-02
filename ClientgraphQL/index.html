@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Heroes API</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Lista de Heroes</h1>
+  <div id="hero-fields">
+    <label>
+      <input type="checkbox" name="field" value="nombre" /> Nombre
+    </label>
+    <label>
+      <input type="checkbox" name="field" value="habilidades" /> Habilidades
+    </label>
+    <label>
+      <input type="checkbox" name="field" value="debilidades" /> Debilidades
+    </label>
+    <label>
+        <input type="checkbox" name="field" value="relacionesPersonales" /> Relaciones Personales
+      </label>
+      <label>
+        <input type="checkbox" name="field" value="edad" /> Edad
+      </label>
+    <!-- Agrega más checkboxes según los campos que deseas -->
+  </div>
+
+  <button id="query-button">Realizar consulta</button>
+
+  <div id="results"></div>
+  <div id="heroes-list"></div>
+  
+
+  <script src="script.js"></script>
+</body>
+</html>
+
