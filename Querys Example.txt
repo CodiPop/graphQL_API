@@ -1,0 +1,66 @@
+
+##Heroes
+{
+  heroes{
+    id
+    nombre
+  }
+}
+
+{
+  heroes{
+    id
+    nombre
+    habilidades
+    debilidades
+    relacionesPersonales
+    edad
+    
+  }
+}
+
+##Villano
+query{
+  villanos{
+    id
+    nombre
+    edad
+    habilidades
+    origen
+    poder
+    debilidades
+  }
+}
+##Agenda
+{
+  agenda{
+    id
+    idHeroe
+    fecha
+    evento
+  }
+}
+
+##PELEAS
+query{
+  peleas{
+    id
+    idHeroe
+    idVillano
+    resultado
+
+  }
+}
+
+query{
+  patrocinadores{
+    id
+    idHeroe
+    nombre
+    monto
+    origenDinero
+  }
+}
+
+
+

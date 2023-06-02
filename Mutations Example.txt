@@ -1,0 +1,142 @@
+
+##HEROES
+mutation{
+  saveHero(nombre: "Invoker",habilidades: "Inteligencia suprema, Control de elementos",edad: 999 
+  debilidades: "Orgullo",relacionespersonales: "Davion, Mirana"){
+    id
+    nombre
+    edad
+    habilidades
+    debilidades
+    relacionesPersonales
+  }
+
+}
+mutation{
+  eliminarHeroe(id:11)
+  }
+mutation {
+  actualizarHeroe(id: 15, nombre: "uevo ", edad: 30, habilidades: "Nuevas Habilidades", debilidades: "Nuevas Debilidades", relacionespersonales:  "Nuevas Relaciones Personales") {
+    id
+    nombre
+    edad
+    habilidades
+    debilidades
+    relacionesPersonales
+  }
+}
+
+##AGENDA
+mutation {
+  saveAgendaEntry(idHeroe: 1, fecha: "2023-05-10T00:00:00.000-05:00", evento: "Reunión de equipo") {
+    idHeroe
+    fecha
+    evento
+  }
+}
+mutation {
+  eliminarAgendaEntry(id: 1)
+}
+mutation {
+  actualizarAgendaEntry(id: 1, fecha: "2023-05-10T00:00:00.000-05:00", evento: "Reunión de equipo actualizada") {
+    id
+    fecha
+    evento
+  }
+}
+
+
+##Peleas
+mutation {
+  savePelea(idHeroe: 1, idVillano: 2, resultado: "Victoria") {
+    id
+    idHeroe
+    idVillano
+    resultado
+  }
+}
+mutation {
+  updatePelea(id: 30, idHeroe: 3, idVillano: 4, resultado: "Empate") {
+    idHeroe
+    idVillano
+    resultado
+  }
+}
+mutation {
+  deletePelea(id: 30)
+}
+
+##Patrocinadores
+mutation {
+  savePatrocinador(idHeroe: 1, nombre: "Stark Industries", monto: 100000, origenDinero: "Industria tecnológica") {
+    idHeroe
+    nombre
+    monto
+    origenDinero
+  }
+}
+mutation {
+  updatePatrocinador(id: 7, nombre: "Stark Industries Updated", monto: 200000, origenDinero: "Industria tecnológica actualizada") {
+    idHeroe
+    nombre
+    monto
+    origenDinero
+  }
+}
+
+mutation {
+  deletePatrocinador(id: 7)
+}
+
+## Villanos
+mutation {
+  saveVillano(nombre: "Carnage", edad: 40, habilidades: "Mente brillante, Manipulación", origen: "Gotham City", poder: "Caos", debilidades: "Su obsesión con Batman") {
+    nombre
+    edad
+    habilidades
+    origen
+    poder
+    debilidades
+  }
+}
+
+
+mutation {
+  updateVillano(id: 7, nombre: "Carnage Updated", edad: 45, habilidades: "Mente brillante, Manipulación avanzada", origen: "Gotham City", poder: "Caos", debilidades: "Su obsesión con Batman") {
+    nombre
+    edad
+    habilidades
+    origen
+    poder
+    debilidades
+  }
+}
+
+mutation {
+  deleteVillano(id: 7)
+}
+
+
+## MyG Procedimiento
+mutation{
+  execMyG{
+      nombre_heroe
+      nombre_villano
+      resultado
+  }
+}
+
+## VillanoMasPeleas Procedimiento
+mutation{
+  obtenerVillanoConMasPeleas(idHeroe: 1) {
+    nombre_villano
+    cantidad_de_peleas
+  }
+}
+## Top 3 Heroes Procedimiento
+mutation{
+  heroesTop3{
+    nombre
+    victorias
+  }
+}
